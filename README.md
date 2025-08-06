@@ -1,25 +1,20 @@
 # CoPanda
 
- Tech Stack: React (Vite), TailwindCSS, ShadCN, Node.js, MongoDB, Docker, Azure VM, GitHub OAuth
+CoPanda is a platform built from scratch with the aim of organizing contests and providing a space to practice DSA (because that's what the world needs!!).
 
- Browser-based IDE & DSA contest platform with real-time compilation and resource isolation
+Yes, this project also comprises both frontend and backend (I’d say, two backends).
 
- Built from scratch a scalable, full-stack web app enabling users to participate in contests and practice data structures and algorithms.
+Three friends, one AI, and countless unproductive hours made this project possible!!
 
- Frontend developed using React (Vite), styled with TailwindCSS & ShadCN for clean UI and responsiveness.
+Tech Stack:
+Frontend: React (Vite), TailwindCSS, ShadCN
+Backend: Node.js, Docker, MongoDB, and one hypervised, lightweight, immortal virtual machine.
 
- Backend powered by Node.js and MongoDB, with Docker containers for language-specific code execution and sandboxing.
+Let me introduce the humans (redacted for privacy):
 
- Integrated GitHub OAuth login for passwordless authentication and rate limiting to prevent abuse.
-
- Designed a job queue system to distribute compilation tasks, preventing VM overload and ensuring reliable performance.
-
- Deployed frontend on Cloudflare Pages, backend on Render, and code executor VM on Azure.
-
- Collaborative project built with a 3-member team over several weeks with version control via GitHub.
-
-**P.S.:**  
-The frontend is deployed on Cloudflare Pages, the backend on Render, and one VM is running on Azure.
+Mehul: Of course, first me!
+Ayush: The AI-envious guy
+Divyanshi: The dictator
 
 ## Features
 
