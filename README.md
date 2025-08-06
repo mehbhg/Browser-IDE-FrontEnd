@@ -13,7 +13,9 @@ Backend: Node.js, Docker, MongoDB, and one hypervised, lightweight, immortal vir
 Let me introduce the humans (redacted for privacy):
 
 Mehul: Of course, first me!
+
 Ayush: The AI-envious guy
+
 Divyanshi: The dictator
 
 ## Features
