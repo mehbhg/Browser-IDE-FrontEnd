@@ -21,10 +21,6 @@
 **P.S.:**  
 The frontend is deployed on Cloudflare Pages, the backend on Render, and one VM is running on Azure.
 
-**Frontend Repo:** [Link](https://github.com/dhs26206/Browser-IDE-FrontEnd)  
-**Backend Repo:** [Link](https://github.com/manpreet-singh1040/ashleel-backend)  
-**Project Preview:** [Link](https://code.ddks.tech)
-
 ## Features
 
 1. **Docker Images:** Used for compilation and output purposes, ensuring isolation and reducing spam.
