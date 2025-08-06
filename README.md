@@ -18,6 +18,12 @@ Ayush: The AI-envious guy
 
 Divyanshi: The dictator
 
+Frontend Repo: Browser-IDE-FrontEnd
+Backend Repo: Link
+Project Preview: Link
+
+
+
 ## Features
 
 1. **Docker Images:** Used for compilation and output purposes, ensuring isolation and reducing spam.
