@@ -18,9 +18,6 @@ Ayush: The AI-envious guy
 
 Divyanshi: The dictator
 
-Frontend Repo: Browser-IDE-FrontEnd
-Backend Repo: Link
-Project Preview: Link
 
 
 
